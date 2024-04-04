@@ -1078,6 +1078,7 @@ tbody.collapse.in {
   margin-bottom: 0;
   padding-left: 0;
   list-style: none;
+ 
 }
 .nav:before, .nav:after {
   content: " ";
